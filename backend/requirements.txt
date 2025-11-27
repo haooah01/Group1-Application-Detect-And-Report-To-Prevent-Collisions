@@ -1,0 +1,7 @@
+# Framework cho server API
+fastapi
+uvicorn[standard]
+
+# Thư viện AI và Xử lý ảnh
+ultralytics
+opencv-python

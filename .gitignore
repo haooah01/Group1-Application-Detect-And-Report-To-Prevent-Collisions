@@ -1,0 +1,22 @@
+# Môi trường ảo của Python
+.venv/
+__pycache__/
+*.pyc
+
+# File hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Biến môi trường 
+.env
+backend/.env
+
+# Các file model AI 
+models/*.pt
+
+# Thư mục chứa dữ liệu test và kết quả
+data/
+output/
+
+# Cấu hình của VS Code
+.vscode/

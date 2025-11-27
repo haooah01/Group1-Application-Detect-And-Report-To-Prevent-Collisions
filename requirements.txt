@@ -1,0 +1,10 @@
+# Thư viện AI và Xử lý ảnh
+ultralytics
+opencv-python
+
+# Thư viện Giao diện (Tkinter) và Hỗ trợ ảnh
+Pillow
+
+# Thư viện Âm thanh
+pygame
+
